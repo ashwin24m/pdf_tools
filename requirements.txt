@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pdfplumber
+pandas
+openpyxl
+python-docx
+python-pptx
+pdf2docx
+PyMuPDF
+pypdf
+pytesseract
+Pillow
